@@ -7,8 +7,7 @@
 </head>
 <body>
   <h1 class="flex justify-center text-3xl font-bold underline">
-    Hello world!!!!!!!!!!!
-    Akif is pokimane simp
+    Hello world
   </h1>
 </body>
 </html>
