@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 869.17 284.94">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        fill: none;
+      }
+
+      .cls-2, .cls-3 {
+        stroke: #f9f9fa;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 5.7px;
+      }
+
+      .cls-4 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-3 {
+        fill: #f9f9fa;
+      }
+
+      .cls-5 {
+        fill: #45aae0;
+      }
+
+      .cls-6 {
+        fill: #231f20;
+        font-family: Ubuntu-Bold, Ubuntu;
+        font-size: 101.22px;
+        font-weight: 700;
+      }
+    </style>
+  </defs>
+  <g id="Layer_1" data-name="Layer 1">
+    <polygon class="cls-5" points="72.35 44.94 0 0 0 159.62 0 231.86 6.58 236.69 72.35 284.94 138.12 236.69 144.7 231.86 144.7 159.62 144.7 0 72.35 44.94"/>
+    <circle class="cls-1" cx="47.27" cy="125.56" r="9.54"/>
+    <path class="cls-3" d="M115.6,169.17v-25.55c0-4.89-4.44-8.59-9.25-7.7-4.27,.79-7.98,1.58-11.04,2.28-28.2,6.48-43.25,16.26-53.73,21.68-2.7,1.39-5.19,2.75-7.47,4.03-3.99,2.24-8.91-.64-8.91-5.22v-40.99c0-1.98,2.84-2.32,3.31-.4,1.91,7.83,3.81,17.88,5.72,19.61,5.32,4.8,12.72,6.64,19.71,4.81,2.6-.5,5.2-1,7.8-1.51,6.52-.87,13.57-5.44,44.83-10.16,4.75-.72,9.04,2.96,9.04,7.77v31.35Z"/>
+    <path class="cls-2" d="M65.15,130.23l39.68-8.96c10.1-1.99,19.55,5.61,19.75,15.9l.09,4.71"/>
+  </g>
+  <g id="Layer_2" data-name="Layer 2">
+    <text class="cls-6" transform="translate(171.56 169.17)"><tspan x="0" y="0">Ho</tspan><tspan class="cls-4" x="135.74" y="0">t</tspan><tspan x="178.66" y="0">el </tspan><tspan class="cls-4" x="294.05" y="0">t</tspan><tspan x="336.97" y="0">er duin.</tspan></text>
+  </g>
+</svg>
