@@ -14,9 +14,9 @@ return new class extends Migration
         Schema::create('klant', function (Blueprint $table) {
             $table->id();
 
-            $table->string("nameeesdgfdsazgzsdv");
+            $table->string("name");
             $table->string("username");
-            $table->string("passwordf");
+            $table->string("password");
 
             $table->timestamps();
         });
