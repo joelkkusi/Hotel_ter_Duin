@@ -15,7 +15,26 @@ use Illuminate\Support\Facades\Route;
 */
 
 Route::get('/', function () {
-    return view('homepage');
+    return redirect('/home');
+});
+
+Route::get('/home', function () {
+    return view('index');
+});
+Route::get('/contact', function () {
+    return view('contact');
+});
+Route::get('/event', function () {
+    return view('events');
+});
+Route::get('/reservation', function () {
+    return view('reservation');
+});
+Route::get('/rooms', function () {
+    return view('rooms');
+});
+Route::get('/about', function () {
+    return view('about');
 });
 
 Route::get('/dashboard', function () {
