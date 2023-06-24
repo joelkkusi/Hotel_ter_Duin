@@ -49,12 +49,12 @@
                   <div class="col-md-6 mx-auto">
                     <ul class="list-unstyled menu">
                       <li><a href="/">Home</a></li>
-                      <li><a href="rooms.html">Rooms</a></li>
-                      <li><a href="about.html">About</a></li>
-                      <li><a href="events.html">Events</a></li>
-                      <li class="active"><a href="contact.html">Contact</a></li>
-                      <li><a href="reservation.html">Reservation</a></li>
-                      <li><a href="login">Login</a></li>
+                      <li><a href="/rooms">Rooms</a></li>
+                      <li><a href="/about">About</a></li>
+                      <li><a href="/events">Events</a></li>
+                      <li class="active"><a href="/contact">Contact</a></li>
+                      <li><a href="/reservation">Reservation</a></li>
+                      <li><a href="/login">Login</a></li>
                     </ul>
                   </div>
                 </div>
