@@ -97,14 +97,14 @@
           <form action="/reservation" method="post" class="bg-white p-md-5 p-4 mb-5 border">
             @csrf
 
-            
+
             <div class="row">
               <div class="col-md-6 form-group">
                 <label class="text-black font-weight-bold" for="room">Room Type</label>
                 <select id="room" name="room" class="form-control">
-                  <option value="single">Single Room</option>
-                  <option value="family">Family Room</option>
-                  <option value="presidental">presidental Room</option>
+                  <option value="0">Single Room</option>
+                  <option value="1">Family Room</option>
+                  <option value="2">presidental Room</option>
                 </select>
               </div>
               <div class="col-md-6 form-group">
@@ -116,11 +116,11 @@
             <div class="row">
               <div class="col-md-6 form-group">
                 <label class="text-black font-weight-bold" for="checkin_date">Date Check In</label>
-                <input type="text" name="checkin" id="checkin_date" class="form-control">
+                <input type="date" name="checkin" id="checkin_date" class="form-control">
               </div>
               <div class="col-md-6 form-group">
                 <label class="text-black font-weight-bold" for="checkout_date">Date Check Out</label>
-                <input type="text" name="checkout" id="checkout_date" class="form-control">
+                <input type="date" name="checkout" id="checkout_date" class="form-control">
               </div>
             </div>
 

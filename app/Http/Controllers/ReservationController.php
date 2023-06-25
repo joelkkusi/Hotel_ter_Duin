@@ -21,8 +21,8 @@ class ReservationController extends Controller
      */
     public function create()
     {
-        if (Auth::check()) {
-            return redirect('/home');
+        if (!Auth::check()) {
+            return redirect('index');
         }
         return view('reservation');
     }
@@ -32,20 +32,25 @@ class ReservationController extends Controller
      */
     public function store(Request $request)
     {
+
+        $userId = Auth::id();
+
         $requestData = $request->all();
 
         $post = new Reservation([
             'phone_number' => $requestData['phone'],
             'check_in_date' => $requestData['checkin'],
             'check_out_date' => $requestData['checkout'],
+            'amount_adults' => $requestData['adults'],
+            'amount_children' => $requestData['children'],
+            'room_id' => $requestData['room'],
             'user_id' => $userId,
-            'image_id' => $image->id,
         ]);
 
         // Save the post
         $post->save();
 
-        return redirect('upload')->with('flash_message', 'Image Added!');
+        return redirect('reservation');
     }
 
     /**
