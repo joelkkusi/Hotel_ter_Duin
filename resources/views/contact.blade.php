@@ -94,22 +94,23 @@
       <div class="row">
         <div class="col-md-7" data-aos="fade-up" data-aos-delay="100">
 
-          <form action="#" method="post" class="bg-white p-md-5 p-4 mb-5 border">
+          <form action="contact" method="post" class="bg-white p-md-5 p-4 mb-5 border">
+            @csrf
             <div class="row">
               <div class="col-md-6 form-group">
                 <label for="name">Name</label>
-                <input type="text" id="name" class="form-control ">
+                <input type="text" name="name" class="form-control ">
               </div>
               <div class="col-md-6 form-group">
                 <label for="phone">Phone</label>
-                <input type="text" id="phone" class="form-control ">
+                <input type="text" name="phone" class="form-control ">
               </div>
             </div>
 
             <div class="row">
               <div class="col-md-12 form-group">
                 <label for="email">Email</label>
-                <input type="email" id="email" class="form-control ">
+                <input type="email" name="email" class="form-control ">
               </div>
             </div>
             <div class="row mb-4">
@@ -129,9 +130,9 @@
         <div class="col-md-5" data-aos="fade-up" data-aos-delay="200">
           <div class="row">
             <div class="col-md-10 ml-auto contact-info">
-              <p><span class="d-block">Address:</span> <span> 98 West 21th Street, Suite 721 New York NY 10016</span></p>
-              <p><span class="d-block">Phone:</span> <span> (+1) 234 4567 8910</span></p>
-              <p><span class="d-block">Email:</span> <span> info@domain.com</span></p>
+              <p><span class="d-block">Address:</span> <span> Amsterdamlaan 1, Amsterdam 1101AA</span></p>
+              <p><span class="d-block">Phone:</span> <span> (+31) 6 12345678</span></p>
+              <p><span class="d-block">Email:</span> <span> info@hotelterduin.com</span></p>
             </div>
           </div>
         </div>
@@ -230,7 +231,7 @@
           <h2 class="text-white font-weight-bold">A Best Place To Stay. Reserve Now!</h2>
         </div>
         <div class="col-12 col-md-6 text-center text-md-right" data-aos="fade-up" data-aos-delay="200">
-          <a href="reservation.html" class="btn btn-outline-white-primary py-3 text-white px-5">Reserve Now</a>
+          <a href="reservation" class="btn btn-outline-white-primary py-3 text-white px-5">Reserve Now</a>
         </div>
       </div>
     </div>

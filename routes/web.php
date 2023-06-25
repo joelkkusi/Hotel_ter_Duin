@@ -3,6 +3,7 @@
 use App\Http\Controllers\ProfileController;
 use Illuminate\Support\Facades\Route;
 use Illuminate\Http\Request;
+use App\Models\Contact;
 
 /*
 |--------------------------------------------------------------------------
@@ -25,6 +26,16 @@ Route::get('/', function () {
 Route::get('/contact', function () {
     return view('contact');
 });
+
+Route::get('/contact', function () {
+    Contact::create([
+        'name' => request('name'),
+        'phone' => request('phone'),
+        'email' => request('email'),
+        'message' => request('message'),
+    ]);
+});
+
 Route::get('/events', function () {
     return view('events');
 });
@@ -36,6 +47,10 @@ Route::get('/rooms', function () {
 });
 Route::get('/about', function () {
     return view('about');
+});
+
+Route::get('/admin', function () {
+    return view('admin');
 });
 
 Route::get('/dashboard', function () {
