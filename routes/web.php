@@ -2,6 +2,7 @@
 
 use App\Http\Controllers\ProfileController;
 use Illuminate\Support\Facades\Route;
+use Illuminate\Http\Request;
 
 /*
 |--------------------------------------------------------------------------
@@ -27,8 +28,8 @@ Route::get('/contact', function () {
 Route::get('/events', function () {
     return view('events');
 });
-Route::get('/reservation', function () {
-    return view('reservation');
+Route::get('/reservation', function (Request $request) {
+    return view('reservation', ['request' => $request->teeeest]);
 });
 Route::get('/rooms', function () {
     return view('rooms');

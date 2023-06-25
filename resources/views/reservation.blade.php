@@ -31,7 +31,7 @@
   <header class="site-header js-site-header">
     <div class="container-fluid">
       <div class="row align-items-center">
-        <div class="col-6 col-lg-4 site-logo" data-aos="fade"><a href="/">Hotel ter Duin</a></div>
+        <div class="col-6 col-lg-4 site-logo" data-aos="fade"><a href="/">{{ $request ? $request : 'bruh' }}</a></div>
         <div class="col-6 col-lg-8">
 
 
@@ -96,20 +96,9 @@
 
           <form action="#" method="post" class="bg-white p-md-5 p-4 mb-5 border">
             <div class="row">
-              <div class="col-md-6 form-group">
-                <label class="text-black font-weight-bold" for="name">Name</label>
-                <input type="text" id="name" class="form-control ">
-              </div>
-              <div class="col-md-6 form-group">
+              <div class="col-md-12 form-group">
                 <label class="text-black font-weight-bold" for="phone">Phone</label>
                 <input type="text" id="phone" class="form-control ">
-              </div>
-            </div>
-
-            <div class="row">
-              <div class="col-md-12 form-group">
-                <label class="text-black font-weight-bold" for="email">Email</label>
-                <input type="email" id="email" class="form-control ">
               </div>
             </div>
 

@@ -174,9 +174,10 @@
           <p data-aos="fade-up" data-aos-delay="100">Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.</p>
         </div>
       </div>
+      <form action=""
       <div class="row">
         <div class="col-md-6 col-lg-4" data-aos="fade-up">
-          <a href="#" class="room">
+          <a href="/reservation" class="room">
             <figure class="img-wrap">
               <img src="images/img_1.jpg" alt="Free website template" class="img-fluid mb-3">
             </figure>
@@ -188,7 +189,7 @@
         </div>
 
         <div class="col-md-6 col-lg-4" data-aos="fade-up">
-          <a href="#" class="room">
+          <a href="/reservation" class="room">
             <figure class="img-wrap">
               <img src="images/img_2.jpg" alt="Free website template" class="img-fluid mb-3">
             </figure>
@@ -200,7 +201,7 @@
         </div>
 
         <div class="col-md-6 col-lg-4" data-aos="fade-up">
-          <a href="#" class="room">
+          <a href="/reservation" class="room">
             <figure class="img-wrap">
               <img src="images/img_3.jpg" alt="Free website template" class="img-fluid mb-3">
             </figure>
