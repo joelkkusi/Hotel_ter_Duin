@@ -18,9 +18,8 @@ return new class extends Migration
             $table->date("check-out-date");
             $table->integer("amount_adults");
             $table->integer("amount_children");
-            $table->foreign("room_id");
-            $table->foreign("user_id");
-            $table->timestamps();
+            $table->foreignId("room_id");
+            $table->foreignId("user_id");
         });
     }
 
