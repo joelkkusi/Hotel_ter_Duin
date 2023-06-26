@@ -22,7 +22,7 @@ class ReservationController extends Controller
     public function create()
     {
         if (!Auth::check()) {
-            return redirect('index');
+            return redirect('/');
         }
         return view('reservation');
     }
