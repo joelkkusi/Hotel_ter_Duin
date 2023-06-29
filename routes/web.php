@@ -4,6 +4,7 @@ use App\Http\Controllers\ContactFormController;
 use App\Http\Controllers\ProfileController;
 use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\ReservationController;
+use App\;
 
 /*
 |--------------------------------------------------------------------------
@@ -23,7 +24,7 @@ Route::get('/', function () {
 Route::post('reservation', [ReservationController::class, 'store']);
 
 Route::get('/form', function () {
-    return view('form');
+    return view('form', ['user']);
 });
 
 Route::get('/', function () {
