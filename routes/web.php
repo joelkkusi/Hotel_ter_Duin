@@ -4,6 +4,7 @@ use App\Http\Controllers\ProfileController;
 use Illuminate\Support\Facades\Route;
 use Illuminate\Http\Request;
 use App\Models\Contact;
+use App\Http\Controllers\ReservationController;
 
 /*
 |--------------------------------------------------------------------------
@@ -37,9 +38,10 @@ Route::get('/contact', function () {
 Route::get('/events', function () {
     return view('events');
 });
-Route::get('/reservation', function (Request $request) {
-    return view('reservation', ['request' => $request->teeeest]);
-});
+
+Route::get('/reservation', [ReservationController::class, 'create']);
+Route::post('/reservation', [ReservationController::class, 'store']);
+
 Route::get('/rooms', function () {
     return view('rooms');
 });
