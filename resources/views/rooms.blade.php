@@ -159,7 +159,7 @@
         <div class="col-md-6 col-lg-4 mb-5" data-aos="fade-up">
           <a href="/reservation" class="room">
             <figure class="img-wrap">
-              <img src="images/img_1.jpg" alt="Free website template" class="img-fluid mb-3">
+              <img src="images/singel_1.jpg" alt="Free website template" class="img-fluid mb-3">
             </figure>
             <div class="p-3 text-center room-info">
               <h2>Single Room</h2>
@@ -171,7 +171,7 @@
         <div class="col-md-6 col-lg-4 mb-5" data-aos="fade-up">
           <a href="/reservation" class="room">
             <figure class="img-wrap">
-              <img src="images/img_2.jpg" alt="Free website template" class="img-fluid mb-3">
+              <img src="images/family_1.jpg" alt="Free website template" class="img-fluid mb-3">
             </figure>
             <div class="p-3 text-center room-info">
               <h2>Family Room</h2>
@@ -183,7 +183,7 @@
         <div class="col-md-6 col-lg-4 mb-5" data-aos="fade-up">
           <a href="/reservation" class="room">
             <figure class="img-wrap">
-              <img src="images/img_3.jpg" alt="Free website template" class="img-fluid mb-3">
+              <img src="images/luxe_1.jpg" alt="Free website template" class="img-fluid mb-3">
             </figure>
             <div class="p-3 text-center room-info">
               <h2>Presidential Room</h2>
@@ -192,93 +192,93 @@
           </a>
         </div>
 
-      <div class="row">
-        <div class="col-md-6 col-lg-4 mb-5" data-aos="fade-up">
-          <a href="/reservation" class="room">
-            <figure class="img-wrap">
-              <img src="images/img_1.jpg" alt="Free website template" class="img-fluid mb-3">
-            </figure>
-            <div class="p-3 text-center room-info">
-              <h2>Single Room</h2>
-              <span class="text-uppercase letter-spacing-1">90$ / per night</span>
-            </div>
-          </a>
-        </div>
+        <div class="row">
+          <div class="col-md-6 col-lg-4 mb-5" data-aos="fade-up">
+            <a href="/reservation" class="room">
+              <figure class="img-wrap">
+                <img src="images/singel_2.jpg" alt="Free website template" class="img-fluid mb-3">
+              </figure>
+              <div class="p-3 text-center room-info">
+                <h2>Single Room</h2>
+                <span class="text-uppercase letter-spacing-1">90$ / per night</span>
+              </div>
+            </a>
+          </div>
 
-        <div class="col-md-6 col-lg-4 mb-5" data-aos="fade-up">
-          <a href="/reservation" class="room">
-            <figure class="img-wrap">
-              <img src="images/img_2.jpg" alt="Free website template" class="img-fluid mb-3">
-            </figure>
-            <div class="p-3 text-center room-info">
-              <h2>Family Room</h2>
-              <span class="text-uppercase letter-spacing-1">120$ / per night</span>
-            </div>
-          </a>
-        </div>
+          <div class="col-md-6 col-lg-4 mb-5" data-aos="fade-up">
+            <a href="/reservation" class="room">
+              <figure class="img-wrap">
+                <img src="images/family_2.jpg" alt="Free website template" class="img-fluid mb-3">
+              </figure>
+              <div class="p-3 text-center room-info">
+                <h2>Family Room</h2>
+                <span class="text-uppercase letter-spacing-1">120$ / per night</span>
+              </div>
+            </a>
+          </div>
 
-        <div class="col-md-6 col-lg-4 mb-5" data-aos="fade-up">
-          <a href="/reservation" class="room">
-            <figure class="img-wrap">
-              <img src="images/img_3.jpg" alt="Free website template" class="img-fluid mb-3">
-            </figure>
-            <div class="p-3 text-center room-info">
-              <h2>Presidential Room</h2>
-              <span class="text-uppercase letter-spacing-1">250$ / per night</span>
-            </div>
-          </a>
-        </div>
+          <div class="col-md-6 col-lg-4 mb-5" data-aos="fade-up">
+            <a href="/reservation" class="room">
+              <figure class="img-wrap">
+                <img src="images/luxe_2.jpg" alt="Free website template" class="img-fluid mb-3">
+              </figure>
+              <div class="p-3 text-center room-info">
+                <h2>Presidential Room</h2>
+                <span class="text-uppercase letter-spacing-1">250$ / per night</span>
+              </div>
+            </a>
+          </div>
 
-        <div class="col-md-6 col-lg-4 mb-5" data-aos="fade-up">
-          <a href="#" class="room">
-            <figure class="img-wrap">
-              <img src="images/img_1.jpg" alt="Free website template" class="img-fluid mb-3">
-            </figure>
-            <div class="p-3 text-center room-info">
-              <h2>Single Room</h2>
-              <span class="text-uppercase letter-spacing-1">90$ / per night</span>
-            </div>
-          </a>
-        </div>
+          <div class="col-md-6 col-lg-4 mb-5" data-aos="fade-up">
+            <a href="#" class="room">
+              <figure class="img-wrap">
+                <img src="images/singel_3.jpg" alt="Free website template" class="img-fluid mb-3">
+              </figure>
+              <div class="p-3 text-center room-info">
+                <h2>Single Room</h2>
+                <span class="text-uppercase letter-spacing-1">90$ / per night</span>
+              </div>
+            </a>
+          </div>
 
-        <div class="col-md-6 col-lg-4 mb-5" data-aos="fade-up">
-          <a href="#" class="room">
-            <figure class="img-wrap">
-              <img src="images/img_2.jpg" alt="Free website template" class="img-fluid mb-3">
-            </figure>
-            <div class="p-3 text-center room-info">
-              <h2>Family Room</h2>
-              <span class="text-uppercase letter-spacing-1">120$ / per night</span>
-            </div>
-          </a>
-        </div>
+          <div class="col-md-6 col-lg-4 mb-5" data-aos="fade-up">
+            <a href="#" class="room">
+              <figure class="img-wrap">
+                <img src="images/family_3.jpg" alt="Free website template" class="img-fluid mb-3">
+              </figure>
+              <div class="p-3 text-center room-info">
+                <h2>Family Room</h2>
+                <span class="text-uppercase letter-spacing-1">120$ / per night</span>
+              </div>
+            </a>
+          </div>
 
-        <div class="col-md-6 col-lg-4 mb-5" data-aos="fade-up">
-          <a href="#" class="room">
-            <figure class="img-wrap">
-              <img src="images/img_3.jpg" alt="Free website template" class="img-fluid mb-3">
-            </figure>
-            <div class="p-3 text-center room-info">
-              <h2>Presidential Room</h2>
-              <span class="text-uppercase letter-spacing-1">250$ / per night</span>
-            </div>
-          </a>
-        </div>
-         
-        <div class="col-md-6 col-lg-4 mb-5" data-aos="fade-up">
-          <a href="#" class="room">
-            <figure class="img-wrap">
-              <img src="images/img_1.jpg" alt="Free website template" class="img-fluid mb-3">
-            </figure>
-            <div class="p-3 text-center room-info">
-              <h2>Single Room</h2>
-              <span class="text-uppercase letter-spacing-1">90$ / per night</span>
-            </div>
-          </a>
-        </div>
+          <div class="col-md-6 col-lg-4 mb-5" data-aos="fade-up">
+            <a href="#" class="room">
+              <figure class="img-wrap">
+                <img src="images/luxe_3.jpg" alt="Free website template" class="img-fluid mb-3">
+              </figure>
+              <div class="p-3 text-center room-info">
+                <h2>Presidential Room</h2>
+                <span class="text-uppercase letter-spacing-1">250$ / per night</span>
+              </div>
+            </a>
+          </div>
 
+          <div class="col-md-6 col-lg-4 mb-5" data-aos="fade-up">
+            <a href="#" class="room">
+              <figure class="img-wrap">
+                <img src="images/GOD_Room.jpg" alt="Free website template" class="img-fluid mb-3">
+              </figure>
+              <div class="p-3 text-center room-info">
+                <h2>The God Room</h2>
+                <span class="text-uppercase letter-spacing-1">500$ / per night</span>
+              </div>
+            </a>
+          </div>
+
+        </div>
       </div>
-    </div>
   </section>
 
   <section class="section bg-light">
