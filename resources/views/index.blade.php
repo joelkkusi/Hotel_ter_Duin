@@ -170,7 +170,7 @@
       <div class="row justify-content-center text-center mb-5">
         <div class="col-md-7">
           <h2 class="heading" data-aos="fade-up">Rooms &amp; Suites</h2>
-          <p data-aos="fade-up" data-aos-delay="100">Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.</p>
+          <p data-aos="fade-up" data-aos-delay="100">Lorem ipsum dolor sit amet consectetur adipisicing elit. Ratione facilis saepe quibusdam cupiditate dolor harum excepturi earum, esse itaque, et sed quas id voluptas aperiam est! Voluptatibus soluta voluptatem a.</p>
         </div>
       </div>
       <div class="row">
@@ -221,7 +221,7 @@
       <div class="row justify-content-center text-center mb-5">
         <div class="col-md-7">
           <h2 class="heading" data-aos="fade-up">Photos</h2>
-          <p data-aos="fade-up" data-aos-delay="100">Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.</p>
+          <p data-aos="fade-up" data-aos-delay="100">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Numquam quis earum optio magni placeat, non beatae reprehenderit! Omnis odio reprehenderit natus facilis deserunt dicta incidunt nulla explicabo, qui, dolorem repellendus.</p>
         </div>
       </div>
       <div class="row">
@@ -262,7 +262,7 @@
       <div class="row justify-content-center text-center mb-5">
         <div class="col-md-7">
           <h2 class="heading text-white" data-aos="fade">Our Restaurant Menu</h2>
-          <p class="text-white" data-aos="fade" data-aos-delay="100">Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.</p>
+          <p class="text-white" data-aos="fade" data-aos-delay="100">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quos labore quia aut consequuntur nostrum laboriosam earum nesciunt? Modi soluta cum ipsum! Nisi repudiandae ad neque, sapiente recusandae possimus vero impedit.</p>
         </div>
       </div>
       <div class="food-menu-tabs" data-aos="fade">
@@ -286,34 +286,34 @@
                 <div class="food-menu mb-5">
                   <span class="d-block text-primary h4 mb-3">€20.00</span>
                   <h3 class="text-white"><a href="#" class="text-white">Murgh Tikka Masala</a></h3>
-                  <p class="text-white text-opacity-7">Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
+                  <p class="text-white text-opacity-7">Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla eum rem suscipit ducimus iste! Minus aspernatur accusamus provident quo deleniti maiores, quisquam eum veritatis pariatur sunt consectetur corporis aliquam ipsam!</p>
                 </div>
                 <div class="food-menu mb-5">
                   <span class="d-block text-primary h4 mb-3">€35.00</span>
                   <h3 class="text-white"><a href="#" class="text-white">Fish Moilee</a></h3>
-                  <p class="text-white text-opacity-7">Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
+                  <p class="text-white text-opacity-7">Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempora, ex modi. Quod nobis soluta at distinctio voluptatem totam aliquid repudiandae harum quisquam assumenda itaque, neque consectetur quidem amet optio blanditiis.</p>
                 </div>
                 <div class="food-menu mb-5">
                   <span class="d-block text-primary h4 mb-3">€15.00</span>
                   <h3 class="text-white"><a href="#" class="text-white">Safed Gosht</a></h3>
-                  <p class="text-white text-opacity-7">Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
+                  <p class="text-white text-opacity-7">Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt quam laborum, facere in non dolor consequuntur. Ipsam quos ratione aliquam fuga ab nam, consequatur veniam, adipisci voluptates perferendis atque voluptate!.</p>
                 </div>
               </div>
               <div class="col-md-6">
                 <div class="food-menu mb-5">
                   <span class="d-block text-primary h4 mb-3">€10.00</span>
                   <h3 class="text-white"><a href="#" class="text-white">French Toast Combo</a></h3>
-                  <p class="text-white text-opacity-7">Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
+                  <p class="text-white text-opacity-7">Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt quam laborum, facere in non dolor consequuntur. Ipsam quos ratione aliquam fuga ab nam, consequatur veniam, adipisci voluptates perferendis atque voluptate!.</p>
                 </div>
                 <div class="food-menu mb-5">
                   <span class="d-block text-primary h4 mb-3">€8.35</span>
                   <h3 class="text-white"><a href="#" class="text-white">Vegie Omelet</a></h3>
-                  <p class="text-white text-opacity-7">Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
+                  <p class="text-white text-opacity-7">Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt quam laborum, facere in non dolor consequuntur. Ipsam quos ratione aliquam fuga ab nam, consequatur veniam, adipisci voluptates perferendis atque voluptate!.</p>
                 </div>
                 <div class="food-menu mb-5">
                   <span class="d-block text-primary h4 mb-3">€22.00</span>
                   <h3 class="text-white"><a href="#" class="text-white">Chorizo &amp; Egg Omelet</a></h3>
-                  <p class="text-white text-opacity-7">Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
+                  <p class="text-white text-opacity-7">Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt quam laborum, facere in non dolor consequuntur. Ipsam quos ratione aliquam fuga ab nam, consequatur veniam, adipisci voluptates perferendis atque voluptate!.</p>
                 </div>
               </div>
             </div>
@@ -327,34 +327,34 @@
                 <div class="food-menu mb-5">
                   <span class="d-block text-primary h4 mb-3">€11.00</span>
                   <h3 class="text-white"><a href="#" class="text-white">Banana Split</a></h3>
-                  <p class="text-white text-opacity-7">Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
+                  <p class="text-white text-opacity-7">Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt quam laborum, facere in non dolor consequuntur. Ipsam quos ratione aliquam fuga ab nam, consequatur veniam, adipisci voluptates perferendis atque voluptate!.</p>
                 </div>
                 <div class="food-menu mb-5">
                   <span class="d-block text-primary h4 mb-3">€72.00</span>
                   <h3 class="text-white"><a href="#" class="text-white">Sticky Toffee Pudding</a></h3>
-                  <p class="text-white text-opacity-7">Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
+                  <p class="text-white text-opacity-7">Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt quam laborum, facere in non dolor consequuntur. Ipsam quos ratione aliquam fuga ab nam, consequatur veniam, adipisci voluptates perferendis atque voluptate!.</p>
                 </div>
                 <div class="food-menu mb-5">
                   <span class="d-block text-primary h4 mb-3">€26.00</span>
                   <h3 class="text-white"><a href="#" class="text-white">Pecan</a></h3>
-                  <p class="text-white text-opacity-7">Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
+                  <p class="text-white text-opacity-7">Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt quam laborum, facere in non dolor consequuntur. Ipsam quos ratione aliquam fuga ab nam, consequatur veniam, adipisci voluptates perferendis atque voluptate!.</p>
                 </div>
               </div>
               <div class="col-md-6">
                 <div class="food-menu mb-5">
                   <span class="d-block text-primary h4 mb-3">$42.00</span>
                   <h3 class="text-white"><a href="#" class="text-white">Apple Strudel</a></h3>
-                  <p class="text-white text-opacity-7">Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
+                  <p class="text-white text-opacity-7">Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt quam laborum, facere in non dolor consequuntur. Ipsam quos ratione aliquam fuga ab nam, consequatur veniam, adipisci voluptates perferendis atque voluptate!.</p>
                 </div>
                 <div class="food-menu mb-5">
                   <span class="d-block text-primary h4 mb-3">€7.35</span>
                   <h3 class="text-white"><a href="#" class="text-white">Pancakes</a></h3>
-                  <p class="text-white text-opacity-7">Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
+                  <p class="text-white text-opacity-7">Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt quam laborum, facere in non dolor consequuntur. Ipsam quos ratione aliquam fuga ab nam, consequatur veniam, adipisci voluptates perferendis atque voluptate!.</p>
                 </div>
                 <div class="food-menu mb-5">
                   <span class="d-block text-primary h4 mb-3">€22.00</span>
                   <h3 class="text-white"><a href="#" class="text-white">Ice Cream Sundae</a></h3>
-                  <p class="text-white text-opacity-7">Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
+                  <p class="text-white text-opacity-7">Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt quam laborum, facere in non dolor consequuntur. Ipsam quos ratione aliquam fuga ab nam, consequatur veniam, adipisci voluptates perferendis atque voluptate!.</p>
                 </div>
               </div>
             </div>
@@ -365,34 +365,34 @@
                 <div class="food-menu mb-5">
                   <span class="d-block text-primary h4 mb-3">€32.00</span>
                   <h3 class="text-white"><a href="#" class="text-white">Spring Water</a></h3>
-                  <p class="text-white text-opacity-7">Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
+                  <p class="text-white text-opacity-7">Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt quam laborum, facere in non dolor consequuntur. Ipsam quos ratione aliquam fuga ab nam, consequatur veniam, adipisci voluptates perferendis atque voluptate!.</p>
                 </div>
                 <div class="food-menu mb-5">
                   <span class="d-block text-primary h4 mb-3">€14.00</span>
                   <h3 class="text-white"><a href="#" class="text-white">Coke, Diet Coke, Coke Zero</a></h3>
-                  <p class="text-white text-opacity-7">Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
+                  <p class="text-white text-opacity-7">Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt quam laborum, facere in non dolor consequuntur. Ipsam quos ratione aliquam fuga ab nam, consequatur veniam, adipisci voluptates perferendis atque voluptate!.</p>
                 </div>
                 <div class="food-menu mb-5">
                   <span class="d-block text-primary h4 mb-3">€93.00</span>
                   <h3 class="text-white"><a href="#" class="text-white">Orange Fanta</a></h3>
-                  <p class="text-white text-opacity-7">Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
+                  <p class="text-white text-opacity-7">Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt quam laborum, facere in non dolor consequuntur. Ipsam quos ratione aliquam fuga ab nam, consequatur veniam, adipisci voluptates perferendis atque voluptate!.</p>
                 </div>
               </div>
               <div class="col-md-6">
                 <div class="food-menu mb-5">
                   <span class="d-block text-primary h4 mb-3">€18.00</span>
                   <h3 class="text-white"><a href="#" class="text-white">Lemonade, Lemon Squash</a></h3>
-                  <p class="text-white text-opacity-7">Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
+                  <p class="text-white text-opacity-7">Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt quam laborum, facere in non dolor consequuntur. Ipsam quos ratione aliquam fuga ab nam, consequatur veniam, adipisci voluptates perferendis atque voluptate!.</p>
                 </div>
                 <div class="food-menu mb-5">
                   <span class="d-block text-primary h4 mb-3">€38.35</span>
                   <h3 class="text-white"><a href="#" class="text-white">Sparkling Mineral Water</a></h3>
-                  <p class="text-white text-opacity-7">Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
+                  <p class="text-white text-opacity-7">Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt quam laborum, facere in non dolor consequuntur. Ipsam quos ratione aliquam fuga ab nam, consequatur veniam, adipisci voluptates perferendis atque voluptate!.</p>
                 </div>
                 <div class="food-menu mb-5">
                   <span class="d-block text-primary h4 mb-3">€69.00</span>
                   <h3 class="text-white"><a href="#" class="text-white">Lemon, Lime &amp; Bitters</a></h3>
-                  <p class="text-white text-opacity-7">Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
+                  <p class="text-white text-opacity-7">Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt quam laborum, facere in non dolor consequuntur. Ipsam quos ratione aliquam fuga ab nam, consequatur veniam, adipisci voluptates perferendis atque voluptate!.</p>
                 </div>
               </div>
             </div>
@@ -419,7 +419,7 @@
             </div>
             <blockquote>
 
-              <p>&ldquo;A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.&rdquo;</p>
+              <p>&ldquo;Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quas voluptas consequuntur eveniet eius voluptatibus deserunt esse. Totam, nulla maiores! Incidunt rem velit ad voluptas asperiores consequuntur earum amet eius eos.&rdquo;</p>
             </blockquote>
             <p><em>&mdash; Jean Smith</em></p>
           </div>
@@ -429,7 +429,7 @@
               <img src="images/person_2.jpg" alt="Image placeholder" class="rounded-circle mx-auto">
             </div>
             <blockquote>
-              <p>&ldquo;Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.&rdquo;</p>
+              <p>&ldquo;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Molestiae aut, delectus asperiores odit vitae, tenetur corrupti sit veniam provident minima ipsum. Modi quaerat ipsam debitis blanditiis voluptates adipisci perspiciatis reprehenderit.&rdquo;</p>
             </blockquote>
             <p><em>&mdash; John Doe</em></p>
           </div>
@@ -440,7 +440,7 @@
             </div>
             <blockquote>
 
-              <p>&ldquo;When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet Village and the subline of her own road, the Line Lane.&rdquo;</p>
+              <p>&ldquo;Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas ut at recusandae, natus optio alias qui. Possimus iusto rem odit ipsum eaque deleniti quae temporibus, quas corrupti voluptate velit fugit?&rdquo;</p>
             </blockquote>
             <p><em>&mdash; John Doe</em></p>
           </div>
@@ -452,7 +452,7 @@
             </div>
             <blockquote>
 
-              <p>&ldquo;A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.&rdquo;</p>
+              <p>&ldquo;Lorem ipsum dolor sit amet consectetur adipisicing elit. Nihil, saepe! Minima accusantium, laudantium quod quia similique labore dolore suscipit nulla atque sequi dolor eum perspiciatis asperiores iste, nihil dicta qui.&rdquo;</p>
             </blockquote>
             <p><em>&mdash; Jean Smith</em></p>
           </div>
@@ -462,7 +462,7 @@
               <img src="images/person_2.jpg" alt="Image placeholder" class="rounded-circle mx-auto">
             </div>
             <blockquote>
-              <p>&ldquo;Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.&rdquo;</p>
+              <p>&ldquo;Lorem ipsum dolor sit, amet consectetur adipisicing elit. Qui provident quibusdam harum quaerat illo vitae mollitia veniam, id praesentium. Suscipit voluptatibus, delectus laborum nesciunt repellat explicabo minima corporis quisquam repellendus?&rdquo;</p>
             </blockquote>
             <p><em>&mdash; John Doe</em></p>
           </div>
@@ -473,7 +473,7 @@
             </div>
             <blockquote>
 
-              <p>&ldquo;When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet Village and the subline of her own road, the Line Lane.&rdquo;</p>
+              <p>&ldquo;Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequatur, omnis molestiae! Amet quisquam alias illum, doloribus aliquam voluptas cupiditate totam doloremque sit, quod provident accusamus exercitationem at? Molestias, laudantium nemo.&rdquo;</p>
             </blockquote>
             <p><em>&mdash; John Doe</em></p>
           </div>
@@ -492,7 +492,7 @@
     <div class="container">
       <div class="row align-items-center">
         <div class="col-12 col-md-6 text-center mb-4 mb-md-0 text-md-left" data-aos="fade-up">
-          <h2 class="text-white font-weight-bold">A Best Place To Stay. Reserve Now!</h2>
+          <h2 class="text-white font-weight-bold">Best Place To Stay. Reserve Now!</h2>
         </div>
         <div class="col-12 col-md-6 text-center text-md-right" data-aos="fade-up" data-aos-delay="200">
           <a href="/reservation" class="btn btn-outline-white-primary py-3 text-white px-5">Reserve Now</a>
