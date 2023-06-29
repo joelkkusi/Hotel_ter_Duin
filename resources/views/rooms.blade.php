@@ -67,7 +67,7 @@
   </header>
   <!-- END head -->
 
-  <section class="site-hero inner-page overlay" style="background-image: url(images/strand_1.jpg)" data-stellar-background-ratio="0.5">
+  <section class="site-hero inner-page overlay" style="background-image: url(images/back_rooms.jpg)" data-stellar-background-ratio="0.5">
     <div class="container">
       <div class="row site-hero-inner justify-content-center align-items-center">
         <div class="col-md-10 text-center" data-aos="fade">
@@ -163,8 +163,9 @@
               <img src="images/singel_1.jpg" alt="no iamge found" class="img-fluid mb-3">
             </figure>
             <div class="p-3 text-center room-info">
-              <h2>Single Room</h2>
-              <span class="text-uppercase letter-spacing-1">90€ / per night</span>
+              <h2>Single Economic</h2>
+              <span class="text-uppercase letter-spacing-1">40€ / per night</span>
+              <p>A Single Economic hotel room is a compact and budget-friendly accommodation option designed for solo travelers, offering essential amenities and a comfortable stay at an affordable price.</p>
             </div>
           </a>
         </div>
@@ -175,8 +176,9 @@
               <img src="images/family_1.jpg" alt="no iamge found" class="img-fluid mb-3">
             </figure>
             <div class="p-3 text-center room-info">
-              <h2>Family Room</h2>
-              <span class="text-uppercase letter-spacing-1">120€ / per night</span>
+              <h2>Family Economic</h2>
+              <span class="text-uppercase letter-spacing-1">80€ / per night</span>
+              <p>A Family Economic hotel room is a budget-friendly accommodation option tailored for families, offering essential amenities and a comfortable, spacious environment that caters to the needs of multiple guests while keeping costs affordable.</p>
             </div>
           </a>
         </div>
@@ -187,9 +189,10 @@
               <img src="images/luxe_1.jpg" alt="no iamge found" class="img-fluid mb-3">
             </figure>
             <div class="p-3 text-center room-info">
-              <h2>Presidential Room</h2>
-              <span class="text-uppercase letter-spacing-1">250€ / per night</span>
+              <h2>Presidential Economic</h2>
+              <span class="text-uppercase letter-spacing-1">120€ / per night</span>
             </div>
+            <p>A Presidential Economic room is a cost-effective and luxurious accommodation option designed for discerning guests, providing upscale amenities and a refined environment that blends elegance with affordability, creating an exceptional stay experience.</p>
           </a>
         </div>
 
@@ -200,8 +203,22 @@
                 <img src="images/singel_2.jpg" alt="no iamge found" class="img-fluid mb-3">
               </figure>
               <div class="p-3 text-center room-info">
-                <h2>Single Room</h2>
-                <span class="text-uppercase letter-spacing-1">90€ / per night</span>
+                <h2>Single Standard</h2>
+                <span class="text-uppercase letter-spacing-1">60€ / per night</span>
+              </div>
+              <p>A Single Standard room is a budget-friendly yet comfortable accommodation option designed for solo travelers, providing essential amenities such as a TV and complimentary beverages, in addition to a straightforward setting that balances affordability with a satisfactory stay experience.</p>
+            </a>
+          </div>
+
+          <div class="col-md-6 col-lg-4 mb-5" data-aos="fade-up">
+            <a href="/reservation" class="room">
+              <figure class="img-wrap">
+                <img src="images/family_3.jpg" alt="no iamge found" class="img-fluid mb-3">
+              </figure>
+              <div class="p-3 text-center room-info">
+                <h2>Family Standard</h2>
+                <span class="text-uppercase letter-spacing-1">100€ / per night</span>
+                <p>A Family Standard room is a budget-friendly and accommodating option designed for families, providing essential amenities, such as a TV and complimentary beverages, along with a comfortable setting that caters to the needs of multiple guests while keeping costs affordable.</p>
               </div>
             </a>
           </div>
@@ -209,24 +226,13 @@
           <div class="col-md-6 col-lg-4 mb-5" data-aos="fade-up">
             <a href="/reservation" class="room">
               <figure class="img-wrap">
-                <img src="images/family_2.jpg" alt="no iamge found" class="img-fluid mb-3">
+                <img src="images/luxe_3.jpg" alt="no iamge found" class="img-fluid mb-3">
               </figure>
               <div class="p-3 text-center room-info">
-                <h2>Family Room</h2>
-                <span class="text-uppercase letter-spacing-1">120€ / per night</span>
+                <h2>Presidential Standard </h2>
+                <span class="text-uppercase letter-spacing-1">150€ / per night</span>
               </div>
-            </a>
-          </div>
-
-          <div class="col-md-6 col-lg-4 mb-5" data-aos="fade-up">
-            <a href="/reservation" class="room">
-              <figure class="img-wrap">
-                <img src="images/luxe_2.jpg" alt="no iamge found" class="img-fluid mb-3">
-              </figure>
-              <div class="p-3 text-center room-info">
-                <h2>Presidential Room</h2>
-                <span class="text-uppercase letter-spacing-1">250€ / per night</span>
-              </div>
+              <p>A Presidential Standard room is a luxurious yet affordable accommodation option designed for discerning guests, offering upscale amenities including a TV and complimentary beverages, alongside a refined setting that blends elegance with affordability, creating an exceptional stay experience.</p>
             </a>
           </div>
 
@@ -236,8 +242,9 @@
                 <img src="images/singel_3.jpg" alt="no iamge found" class="img-fluid mb-3">
               </figure>
               <div class="p-3 text-center room-info">
-                <h2>Single Room</h2>
+                <h2>Single comfort</h2>
                 <span class="text-uppercase letter-spacing-1">90€ / per night</span>
+                <p>A Single Comfort room is the finest and most luxurious type of accommodation we offer, providing exceptional comfort and convenience to solo travelers. It includes complimentary food and beverages, top-notch amenities, exquisite design, and a serene atmosphere that guarantees the utmost comfort and satisfaction during your stay.</p>
               </div>
             </a>
           </div>
@@ -245,11 +252,12 @@
           <div class="col-md-6 col-lg-4 mb-5" data-aos="fade-up">
             <a href="#" class="room">
               <figure class="img-wrap">
-                <img src="images/family_3.jpg" alt="no iamge found" class="img-fluid mb-3">
+                <img src="images/family_2.jpg" alt="no iamge found" class="img-fluid mb-3">
               </figure>
               <div class="p-3 text-center room-info">
-                <h2>Family Room</h2>
-                <span class="text-uppercase letter-spacing-1">120€ / per night</span>
+                <h2>Family comfort</h2>
+                <p>A Comfort Family room is the ultimate in luxurious and spacious accommodation, tailored specifically for families, offering top-notch comfort, convenience, and indulgence. This room type includes complimentary food and beverages, ensuring a memorable and enjoyable stay for the whole family.</p>
+                <span class="text-uppercase letter-spacing-1">140€ / per night</span>
               </div>
             </a>
           </div>
@@ -257,11 +265,12 @@
           <div class="col-md-6 col-lg-4 mb-5" data-aos="fade-up">
             <a href="#" class="room">
               <figure class="img-wrap">
-                <img src="images/luxe_3.jpg" alt="no iamge found" class="img-fluid mb-3">
+                <img src="images/luxe_2.jpg" alt="no iamge found" class="img-fluid mb-3">
               </figure>
               <div class="p-3 text-center room-info">
-                <h2>Presidential Room</h2>
+                <h2>Presidential comfort</h2>
                 <span class="text-uppercase letter-spacing-1">250€ / per night</span>
+                <p>A Presidential Comfort room represents the epitome of opulence and luxury, providing unparalleled comfort and sophistication to discerning guests. This room type offers lavish amenities, including complimentary food and beverages, ensuring an extraordinary and indulgent stay experience for those seeking the highest level of accommodation.</p>
               </div>
             </a>
           </div>
@@ -274,6 +283,7 @@
               <div class="p-3 text-center room-info">
                 <h2>The God Room</h2>
                 <span class="text-uppercase letter-spacing-1">500€ / per night</span>
+                <p>Our God room is the epitome of extravagance and luxury, meticulously designed for royalty, offering an unparalleled experience that surpasses all expectations. This room provides an array of lavish amenities, including exquisite furnishings, personalized services, and an extensive range of premium offerings, ensuring an unforgettable stay that caters to the utmost desires and needs of our esteemed guests.</p>
               </div>
             </a>
           </div>
