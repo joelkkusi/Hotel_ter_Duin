@@ -95,12 +95,12 @@
           <figure class="img-absolute">
             <img src="images/food-1.jpg" alt="no image" class="img-fluid">
           </figure>
-          <img src="images/img_1.jpg" alt="Image" class="img-fluid rounded">
+          <img src="images/welcome.jpg" alt="Image" class="img-fluid rounded">
         </div>
         <div class="col-md-12 col-lg-4 order-lg-1" data-aos="fade-up">
           <h2 class="heading">Welcome!</h2>
           <p class="mb-4">Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.</p>
-          <p><a href="#" class="btn btn-primary text-white py-2 mr-3">Learn More</a> <span class="mr-3 font-family-serif"><em>or</em></span> <a href="https://vimeo.com/channels/staffpicks/93951774" data-fancybox class="text-uppercase letter-spacing-1">See video</a></p>
+          <p><a href="#" class="btn btn-primary text-white py-2 mr-3">Learn More</a> <span class="mr-3 font-family-serif"><em>or</em></span> <a href="https://www.youtube.com/watch?v=Cwb81AFQ2NY" data-fancybox class="text-uppercase letter-spacing-1">See video</a></p>
         </div>
 
       </div>
@@ -144,9 +144,9 @@
       <div class="col-md-6 col-lg-4" data-aos="fade-up" data-aos-delay="200">
         <div class="block-2"> <!-- .hover -->
           <div class="flipper">
-            <div class="front" style="background-image: url(images/person_1.jpg);">
+            <div class="front" style="background-image: url(images/noah.jpg);">
               <div class="box">
-                <h2>Jane Williams</h2>
+                <h2>Noah the Ark</h2>
                 <p>Business Manager</p>
               </div>
             </div>
@@ -157,7 +157,7 @@
               </blockquote>
               <div class="author d-flex">
                 <div class="image mr-3 align-self-center">
-                  <img src="images/person_1.jpg" alt="">
+                  <img src="images/noah.jpg" alt="">
                 </div>
                 <div class="name align-self-center">Jane Williams <span class="position">Business Manager</span></div>
               </div>

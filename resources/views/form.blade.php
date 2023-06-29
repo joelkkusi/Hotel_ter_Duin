@@ -11,10 +11,14 @@
         
         <h3>Invoice</h3>
         <!-- Replace the placeholder values with the actual room information retrieved from the database -->
+<<<<<<< HEAD
         <p>Room Number: $room-></p>
+=======
+        <!-- <p>Room Number: {{roomNumber}}</p>
+>>>>>>> 5cfb6c2089e7dcf28f98fc192c3ababbeb28a5f6
         <p>Check-in Date: {{checkInDate}}</p>
         <p>Check-out Date: {{checkOutDate}}</p>
-        <p>Total Amount: {{totalAmount}}</p>
+        <p>Total Amount: {{totalAmount}}</p> -->
         
         <!-- You can add additional details to the invoice as needed -->
     </div>
