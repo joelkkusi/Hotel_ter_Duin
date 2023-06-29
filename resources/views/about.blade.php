@@ -128,7 +128,7 @@
             <div class="back">
               <!-- back content -->
               <blockquote>
-                <p>&ldquo;Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.&rdquo;</p>
+                <p>&ldquo;Lorem ipsum dolor sit amet consectetur adipisicing elit. Sapiente minus quam commodi iusto placeat, quas tenetur illo modi, sunt accusamus voluptatem, suscipit nisi temporibus aperiam? Ex autem quae saepe accusantium.&rdquo;</p>
               </blockquote>
               <div class="author d-flex">
                 <div class="image mr-3 align-self-center">
@@ -153,13 +153,13 @@
             <div class="back">
               <!-- back content -->
               <blockquote>
-                <p>&ldquo;Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.&rdquo;</p>
+                <p>&ldquo;Lorem ipsum dolor sit, amet consectetur adipisicing elit. Blanditiis reiciendis dolore, ratione illum odit aperiam obcaecati? Nam amet architecto, blanditiis hic nisi, ipsam omnis aliquid laudantium rem nulla eius laborum?.&rdquo;</p>
               </blockquote>
               <div class="author d-flex">
                 <div class="image mr-3 align-self-center">
                   <img src="images/noah.jpg" alt="">
                 </div>
-                <div class="name align-self-center">Jane Williams <span class="position">Business Manager</span></div>
+                <div class="name align-self-center">Noah the Ark <span class="position">Business Manager</span></div>
               </div>
             </div>
           </div>
@@ -178,7 +178,7 @@
             <div class="back">
               <!-- back content -->
               <blockquote>
-                <p>&ldquo;Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.&rdquo;</p>
+                <p>&ldquo;Lorem ipsum dolor, sit amet consectetur adipisicing elit. Illum optio tenetur doloribus consectetur eum deleniti numquam nobis deserunt natus modi, autem impedit tempora mollitia animi ducimus architecto aliquid dolore. Inventore?.&rdquo;</p>
               </blockquote>
               <div class="author d-flex">
                 <div class="image mr-3 align-self-center">
@@ -199,7 +199,7 @@
       <div class="row justify-content-center text-center mb-5">
         <div class="col-md-7">
           <h2 class="heading" data-aos="fade-up">Photos</h2>
-          <p data-aos="fade-up" data-aos-delay="100">Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.</p>
+          <p data-aos="fade-up" data-aos-delay="100">Lorem ipsum dolor sit amet consectetur adipisicing elit. Facere mollitia tenetur, harum quaerat nesciunt magnam, dolor aut sed quo quas ipsam maiores fugiat blanditiis unde hic excepturi deleniti sapiente ea?</p>
         </div>
       </div>
       <div class="row">

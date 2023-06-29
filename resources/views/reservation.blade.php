@@ -34,17 +34,16 @@
       <div class="row align-items-center">
         <div class="col-6 col-lg-4 site-logo" data-aos="fade"><a href="/">Hotel Ter Duin
 
-          @if (session()->has('success'))
-          <div x-data="{ show: true }"
-          x-init="setTimeout(() => show = false, 3000)"
-          x-show="show"
-              class="fixed bg-blue-500 text-white py-2 px-4 rounded-xl bottom-3 right-3 text-sm">
-                <script>alert('Succesvol gereserveerd')</script>
-              </div>
-          @endif
+            @if (session()->has('success'))
+            <div x-data="{ show: true }" x-init="setTimeout(() => show = false, 3000)" x-show="show" class="fixed bg-blue-500 text-white py-2 px-4 rounded-xl bottom-3 right-3 text-sm">
+              <script>
+                alert('Succesvol gereserveerd')
+              </script>
+            </div>
+            @endif
 
 
-        </a></div>
+          </a></div>
         <div class="col-6 col-lg-8">
 
 
@@ -154,6 +153,7 @@
                 <div class="field-icon-wrap">
                   <div class="icon"><span class="ion-ios-arrow-down"></span></div>
                   <select name="children" id="children" class="form-control">
+                    <option value="0">0</option>
                     <option value="1">1</option>
                     <option value="2">2</option>
                     <option value="3">3</option>
@@ -293,14 +293,11 @@
 
 
   @if (session()->has('success'))
-  <div x-data="{ show: true }"
-  x-init="setTimeout(() => show = false, 3000)"
-  x-show="show"
-      class="fixed bg-blue-500 text-white py-2 px-4 rounded-xl bottom-3 right-3 text-sm">
-          <p>
-              {{ session('success') }}
-          </p>
-      </div>
+  <div x-data="{ show: true }" x-init="setTimeout(() => show = false, 3000)" x-show="show" class="fixed bg-blue-500 text-white py-2 px-4 rounded-xl bottom-3 right-3 text-sm">
+    <p>
+      {{ session('success') }}
+    </p>
+  </div>
   @endif
 
   <script src="js/jquery-3.3.1.min.js"></script>
