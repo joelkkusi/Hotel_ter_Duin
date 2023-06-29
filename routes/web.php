@@ -20,6 +20,10 @@ Route::get('/', function () {
     return redirect('/index');
 });
 
+Route::get('/form', function () {
+    return redirect('/form');
+});
+
 Route::get('/', function () {
     return view('index');
 });
@@ -60,3 +64,6 @@ Route::middleware('auth')->group(function () {
 });
 
 require __DIR__ . '/auth.php';
+
+
+
