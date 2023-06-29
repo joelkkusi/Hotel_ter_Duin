@@ -50,7 +50,7 @@ class ReservationController extends Controller
         // Save the post
         $post->save();
 
-        return redirect('reservation')->with('success', 'Je bent ingelogd');
+        return redirect('form')->with('success', 'Je bent ingelogd');
     }
 
     /**
