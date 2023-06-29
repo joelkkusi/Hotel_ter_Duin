@@ -20,8 +20,10 @@ Route::get('/', function () {
     return redirect('/index');
 });
 
+Route::post('reservation', [ReservationController::class, 'store']);
+
 Route::get('/form', function () {
-    return redirect('/form');
+    return view('form');
 });
 
 Route::get('/', function () {
@@ -40,7 +42,6 @@ Route::get('/mail', function () {
 });
 
 Route::get('/reservation', [ReservationController::class, 'create']);
-Route::post('/reservation', [ReservationController::class, 'store']);
 
 Route::get('/rooms', function () {
     return view('rooms');
