@@ -12,27 +12,27 @@
 
 <body class="bg-slate-100 m-0">
     <header>
-        <div class="hele-menu bg-white"></div>
-        <div class="header-container pl-[20px] flex items-center">
-
-            <div class="header-logo">
-                <img src="images/logo1.png" alt="" class="w-[300px]">
+            <div class="hele-menu bg-white"></div>
+            <div class="header-container pl-[20px] flex items-center">
+            
+                <div class="header-logo">
+                    <img src="images/logo1.png" alt="" class="w-[300px]">
+                </div>
+                <nav>
+                    <ul class="links flex space-x-4 font-[600] ">
+                        <li> <button class="button-81" onclick="location.href='#'"> Home </button> </li>
+                        <li> <button class="button-81" onclick="location.href='#'"> Rooms </button> </li>
+                        <li> <button class="button-81" onclick="location.href='#'"> Info </button> </li>
+                    </ul>
+                </nav>
+                <button class="button-81 ml-auto pr-[20px] mb-[15px]" role="button" onclick="location.href='#'">Login</button>
             </div>
-            <nav>
-                <ul class="links flex space-x-4 font-[600] ">
-                    <li> <button class="button-81" onclick="location.href='#'"> Home </button> </li>
-                    <li> <button class="button-81" onclick="location.href='#'"> Rooms </button> </li>
-                    <li> <button class="button-81" onclick="location.href='#'"> Info </button> </li>
-                </ul>
-            </nav>
-            <button class="button-81 ml-auto pr-[20px] mb-[15px]" role="button" onclick="location.href='#'">Login</button>
-        </div>
 
 
     </header>
 
     <main>
-        <div class="search-header">
+    <div class="search-header">
             <video src="" autoplay muted loop></video>
             <img src="images/banner.png" alt="">
 
@@ -55,10 +55,11 @@
 
         .button-81 {
             background-color: #fff;
+
             color: #0d172a;
             cursor: pointer;
             display: inline-block;
-            font-family: "Basier circle", -apple-system, system-ui, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+            font-family: "Basier circle",-apple-system,system-ui,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
             font-size: 1.1rem;
             font-weight: 600;
             line-height: 1.7;
@@ -80,23 +81,22 @@
         }
 
         @media (min-width: 768px) {
-            .button-81 {
-                font-size: 1.125rem;
-                padding: 0.5rem 2rem;
-                padding-top: 10px;
-            }
-
-            .search-header {
-                margin-top: -100px;
-                /* Adjust the value as needed */
-
-            }
-
-
-
+        .button-81 {
+            font-size: 1.125rem;
+            padding: 0.5rem 2rem;
+            padding-top: 10px;
         }
 
-        /* nav bar einde */
+        .search-header {
+        margin-top: -100px; /* Adjust the value as needed */
+        
+        }
+
+
+
+}
+/* nav bar einde */
+
     </style>
 </body>
 
