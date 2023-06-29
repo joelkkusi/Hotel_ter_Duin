@@ -157,7 +157,7 @@
 
       <div class="row">
         <div class="col-md-6 col-lg-4 mb-5" data-aos="fade-up">
-          <a href="#" class="room">
+          <a href="/reservation" class="room">
             <figure class="img-wrap">
               <img src="images/img_1.jpg" alt="Free website template" class="img-fluid mb-3">
             </figure>
@@ -169,7 +169,7 @@
         </div>
 
         <div class="col-md-6 col-lg-4 mb-5" data-aos="fade-up">
-          <a href="#" class="room">
+          <a href="/reservation" class="room">
             <figure class="img-wrap">
               <img src="images/img_2.jpg" alt="Free website template" class="img-fluid mb-3">
             </figure>
@@ -181,7 +181,7 @@
         </div>
 
         <div class="col-md-6 col-lg-4 mb-5" data-aos="fade-up">
-          <a href="#" class="room">
+          <a href="/reservation" class="room">
             <figure class="img-wrap">
               <img src="images/img_3.jpg" alt="Free website template" class="img-fluid mb-3">
             </figure>
@@ -193,7 +193,7 @@
         </div>
 
         <div class="col-md-6 col-lg-4 mb-5" data-aos="fade-up">
-          <a href="#" class="room">
+          <a href="/reservation" class="room">
             <figure class="img-wrap">
               <img src="images/img_1.jpg" alt="Free website template" class="img-fluid mb-3">
             </figure>
@@ -205,7 +205,7 @@
         </div>
 
         <div class="col-md-6 col-lg-4 mb-5" data-aos="fade-up">
-          <a href="#" class="room">
+          <a href="/reservation" class="room">
             <figure class="img-wrap">
               <img src="images/img_2.jpg" alt="Free website template" class="img-fluid mb-3">
             </figure>
@@ -217,7 +217,7 @@
         </div>
 
         <div class="col-md-6 col-lg-4 mb-5" data-aos="fade-up">
-          <a href="#" class="room">
+          <a href="/reservation" class="room">
             <figure class="img-wrap">
               <img src="images/img_3.jpg" alt="Free website template" class="img-fluid mb-3">
             </figure>
