@@ -66,7 +66,7 @@
   </header>
   <!-- END head -->
 
-  <section class="site-hero inner-page overlay" style="background-image: url(images/hero_4.jpg)" data-stellar-background-ratio="0.5">
+  <section class="site-hero inner-page overlay" style="background-image: url(images/netherlands_1.jpg)" data-stellar-background-ratio="0.5">
     <div class="container">
       <div class="row site-hero-inner justify-content-center align-items-center">
         <div class="col-md-10 text-center" data-aos="fade">
@@ -169,9 +169,10 @@
         <div class="col-md-5" data-aos="fade-up" data-aos-delay="200">
           <div class="row">
             <div class="col-md-10 ml-auto contact-info">
-              <p><span class="d-block">Address:</span> <span class="text-black"> 98 West 21th Street, Suite 721 New York NY 10016</span></p>
-              <p><span class="d-block">Phone:</span> <span class="text-black"> (+1) 435 3533</span></p>
-              <p><span class="d-block">Email:</span> <span class="text-black"> info@yourdomain.com</span></p>
+              <p><span class="d-block">Address:</span> <span class="text-black"> Kon. Wilhelmina Boulevard 4, 2202 GR Noordwijk</span></p>
+              {{-- Noah vroeg om deze telefoon nummer --}}
+              <p><span class="d-block">Phone:</span> <span class="text-black"> (+31) 69 666 420</span></p>
+              <p><span class="d-block">Email:</span> <span class="text-black"> info@HotelderTuin.com</span></p>
             </div>
           </div>
         </div>

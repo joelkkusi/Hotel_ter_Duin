@@ -130,9 +130,10 @@
         <div class="col-md-5" data-aos="fade-up" data-aos-delay="200">
           <div class="row">
             <div class="col-md-10 ml-auto contact-info">
-              <p><span class="d-block">Address:</span> <span> Amsterdamlaan 1, Amsterdam 1101AA</span></p>
-              <p><span class="d-block">Phone:</span> <span> (+31) 6 12345678</span></p>
-              <p><span class="d-block">Email:</span> <span> info@hotelterduin.com</span></p>
+                <p><span class="d-block">Address:</span> <span class="text-black"> Kon. Wilhelmina Boulevard 4, 2202 GR Noordwijk</span></p>
+                {{-- Noah vroeg om deze telefoon nummer --}}
+                <p><span class="d-block">Phone:</span> <span class="text-black"> (+31) 69 666 420</span></p>
+                <p><span class="d-block">Email:</span> <span class="text-black"> info@HotelderTuin.com</span></p>
             </div>
           </div>
         </div>
