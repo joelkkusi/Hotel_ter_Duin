@@ -92,9 +92,12 @@
     <div class="container">
       <div class="row">
         <div class="col-md-7" data-aos="fade-up" data-aos-delay="100">
-
-          <form action="contact" class="bg-white p-md-5 p-4 mb-5 border">
-            @method('POST')
+          @if(Session::has('success'))
+          <div class="alert alert-success">
+            {{Session::get('success')}}
+          </div>
+          @endif
+          <form action="{{ route('contact.store') }}" method="post" enctype="multipart/form-data" class="bg-white p-md-5 p-4 mb-5 border">
             @csrf
             <div class="row">
               <div class="col-md-6 form-group">
@@ -111,6 +114,10 @@
               <div class="col-md-12 form-group">
                 <label for="email">Email</label>
                 <input type="email" name="email" class="form-control ">
+              </div>
+              <div class="col-md-12 form-group">
+                <label for="email">Subject</label>
+                <input type="text" name="subject" class="form-control ">
               </div>
             </div>
             <div class="row mb-4">
@@ -130,10 +137,10 @@
         <div class="col-md-5" data-aos="fade-up" data-aos-delay="200">
           <div class="row">
             <div class="col-md-10 ml-auto contact-info">
-                <p><span class="d-block">Address:</span> <span class="text-black"> Kon. Wilhelmina Boulevard 4, 2202 GR Noordwijk</span></p>
-                {{-- Noah vroeg om deze telefoon nummer --}}
-                <p><span class="d-block">Phone:</span> <span class="text-black"> (+31) 69 666 420</span></p>
-                <p><span class="d-block">Email:</span> <span class="text-black"> info@HotelderTuin.com</span></p>
+              <p><span class="d-block">Address:</span> <span class="text-black"> Kon. Wilhelmina Boulevard 4, 2202 GR Noordwijk</span></p>
+              {{-- Noah vroeg om deze telefoon nummer --}}
+              <p><span class="d-block">Phone:</span> <span class="text-black"> (+31) 69 666 420</span></p>
+              <p><span class="d-block">Email:</span> <span class="text-black"> info@HotelderTuin.com</span></p>
             </div>
           </div>
         </div>

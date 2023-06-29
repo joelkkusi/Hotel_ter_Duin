@@ -1,9 +1,8 @@
 <?php
 
+use App\Http\Controllers\ContactFormController;
 use App\Http\Controllers\ProfileController;
 use Illuminate\Support\Facades\Route;
-use Illuminate\Http\Request;
-use App\Models\Contact;
 use App\Http\Controllers\ReservationController;
 
 /*
@@ -24,19 +23,16 @@ Route::get('/', function () {
 Route::get('/', function () {
     return view('index');
 });
-Route::get('/contact', function () {
-    return view('contact');
 
-    $contact = new Contact();
-    $contact->name = request('name');
-    $contact->phone = request('phone');
-    $contact->email = request('email');
-    $contact->message = request('message');
-    $contact->save();
-});
+Route::get('/contact', [ContactFormController::class, 'createForm']);
+Route::post('/contact', [ContactFormController::class, 'ContactForm'])->name('contact.store');
 
 Route::get('/events', function () {
     return view('events');
+});
+
+Route::get('/mail', function () {
+    return view('mail');
 });
 
 Route::get('/reservation', [ReservationController::class, 'create']);
