@@ -51,7 +51,6 @@
                       <li><a href="/">Home</a></li>
                       <li><a href="/rooms">Rooms</a></li>
                       <li class="active"><a href="/about">About</a></li>
-                      <li><a href="/events">Events</a></li>
                       <li><a href="/contact">Contact</a></li>
                       <li><a href="/reservation">Reservation</a></li>
                       <li><a href="/login">Login</a></li>
@@ -67,7 +66,7 @@
   </header>
   <!-- END head -->
 
-  <section class="site-hero inner-page overlay" style="background-image: url(images/hero_4.jpg)" data-stellar-background-ratio="0.5">
+  <section class="site-hero inner-page overlay" style="background-image: url(images/amsterdam2.jpg)" data-stellar-background-ratio="0.5">
     <div class="container">
       <div class="row site-hero-inner justify-content-center align-items-center">
         <div class="col-md-10 text-center" data-aos="fade">
@@ -248,22 +247,21 @@
       <div class="row justify-content-center">
         <div class="col-md-8">
           <div class="timeline-item" date-is='2019' data-aos="fade">
-            <h3>More Branches Worldwide</h3>
-            <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.</p>
-            <p>A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.</p>
+            <h3>voorbeeld text3</h3>
+            <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Itaque cumque asperiores, nobis minus fuga, cum non qui magnam neque reiciendis molestias minima? Dolores sed praesentium omnis explicabo nihil debitis quibusdam! </p>
           </div>
 
           <div class="timeline-item" date-is='2011' data-aos="fade">
-            <h3>Company Full Blast</h3>
+            <h3>voorbeeld text 2</h3>
             <p>
-              Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.
+              Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptas mollitia, blanditiis tenetur nesciunt voluptatem eos hic repellat et pariatur consequatur. Quidem modi veritatis magnam eius assumenda dolores corrupti dicta praesentium?
             </p>
           </div>
 
           <div class="timeline-item" date-is='2008' data-aos="fade">
-            <h3>The Birth of the Company</h3>
+            <h3>voorbeeld text</h3>
             <p>
-              Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.
+              Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates tenetur porro facilis aperiam nobis pariatur quo dignissimos sunt quasi nisi eveniet corrupti temporibus quia asperiores repudiandae, distinctio inventore soluta aspernatur!
             </p>
           </div>
         </div>
@@ -275,7 +273,7 @@
 
 
 
-  <section class="section bg-image overlay" style="background-image: url('images/hero_4.jpg');">
+  <section class="section bg-image overlay" style="background-image: url('images/amsterdam2.jpg');">
     <div class="container">
       <div class="row align-items-center">
         <div class="col-12 col-md-6 text-center mb-4 mb-md-0 text-md-left" data-aos="fade-up">
@@ -287,53 +285,6 @@
       </div>
     </div>
   </section>
-
-  <footer class="section footer-section">
-    <div class="container">
-      <div class="row mb-4">
-        <div class="col-md-3 mb-5">
-          <ul class="list-unstyled link">
-            <li><a href="about">About Us</a></li>
-            <li><a href="#">Terms &amp; Conditions</a></li>
-            <li><a href="#">Privacy Policy</a></li>
-            <li><a href="rooms">Rooms</a></li>
-          </ul>
-        </div>
-        <div class="col-md-3 mb-5">
-          <ul class="list-unstyled link">
-            <li><a href="rooms">The Rooms &amp; Suites</a></li>
-            <li><a href="about">About Us</a></li>
-            <li><a href="contact">Contact Us</a></li>
-            <li><a href="restaurant">Restaurant</a></li>
-          </ul>
-        </div>
-        <div class="col-md-3 mb-5 pr-md-5 contact-info">
-          <!-- <li>198 West 21th Street, <br> Suite 721 New York NY 10016</li> -->
-          <p><span class="d-block"><span class="ion-ios-location h5 mr-3 text-primary"></span>Address:</span> <span> 198 West 21th Street, <br> Suite 721 New York NY 10016</span></p>
-          <p><span class="d-block"><span class="ion-ios-telephone h5 mr-3 text-primary"></span>Phone:</span> <span> (+1) 435 3533</span></p>
-          <p><span class="d-block"><span class="ion-ios-email h5 mr-3 text-primary"></span>Email:</span> <span> info@domain.com</span></p>
-        </div>
-        <div class="col-md-3 mb-5">
-          <p>Sign up for our newsletter</p>
-          <form action="#" class="footer-newsletter">
-            <div class="form-group">
-              <input type="email" class="form-control" placeholder="Email...">
-              <button type="submit" class="btn"><span class="fa fa-paper-plane"></span></button>
-            </div>
-          </form>
-        </div>
-      </div>
-      <div class="row pt-5">
-        <p class="col-md-6 text-right social">
-          <a href="#"><span class="fa fa-tripadvisor"></span></a>
-          <a href="#"><span class="fa fa-facebook"></span></a>
-          <a href="#"><span class="fa fa-twitter"></span></a>
-          <a href="#"><span class="fa fa-linkedin"></span></a>
-          <a href="#"><span class="fa fa-vimeo"></span></a>
-        </p>
-      </div>
-    </div>
-  </footer>
 
   <script src="js/jquery-3.3.1.min.js"></script>
   <script src="js/jquery-migrate-3.0.1.min.js"></script>

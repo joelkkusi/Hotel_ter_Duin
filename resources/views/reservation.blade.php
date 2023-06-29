@@ -51,7 +51,6 @@
                       <li><a href="/">Home</a></li>
                       <li><a href="/rooms">Rooms</a></li>
                       <li><a href="/about">About</a></li>
-                      <li><a href="/events">Events</a></li>
                       <li><a href="/contact">Contact</a></li>
                       <li class="active"><a href="/reservation">Reservation</a></li>
                       <li><a href="/login">Login</a></li>
@@ -97,14 +96,14 @@
           <form action="/reservation" method="post" class="bg-white p-md-5 p-4 mb-5 border">
             @csrf
 
-            
+
             <div class="row">
               <div class="col-md-6 form-group">
                 <label class="text-black font-weight-bold" for="room">Room Type</label>
                 <select id="room" name="room" class="form-control">
-                  <option value="single">Single Room</option>
-                  <option value="family">Family Room</option>
-                  <option value="presidental">presidental Room</option>
+                  <option value="0">Single Room</option>
+                  <option value="1">Family Room</option>
+                  <option value="2">presidental Room</option>
                 </select>
               </div>
               <div class="col-md-6 form-group">
@@ -116,11 +115,11 @@
             <div class="row">
               <div class="col-md-6 form-group">
                 <label class="text-black font-weight-bold" for="checkin_date">Date Check In</label>
-                <input type="text" name="checkin" id="checkin_date" class="form-control">
+                <input type="date" name="checkin" id="checkin_date" class="form-control">
               </div>
               <div class="col-md-6 form-group">
                 <label class="text-black font-weight-bold" for="checkout_date">Date Check Out</label>
-                <input type="text" name="checkout" id="checkout_date" class="form-control">
+                <input type="date" name="checkout" id="checkout_date" class="form-control">
               </div>
             </div>
 
@@ -277,52 +276,7 @@
     </div>
   </section>
 
-  <footer class="section footer-section">
-    <div class="container">
-      <div class="row mb-4">
-        <div class="col-md-3 mb-5">
-          <ul class="list-unstyled link">
-            <li><a href="about">About Us</a></li>
-            <li><a href="#">Terms &amp; Conditions</a></li>
-            <li><a href="#">Privacy Policy</a></li>
-            <li><a href="rooms">Rooms</a></li>
-          </ul>
-        </div>
-        <div class="col-md-3 mb-5">
-          <ul class="list-unstyled link">
-            <li><a href="rooms">The Rooms &amp; Suites</a></li>
-            <li><a href="about">About Us</a></li>
-            <li><a href="contact">Contact Us</a></li>
-            <li><a href="restaurant">Restaurant</a></li>
-          </ul>
-        </div>
-        <div class="col-md-3 mb-5 pr-md-5 contact-info">
-          <!-- <li>198 West 21th Street, <br> Suite 721 New York NY 10016</li> -->
-          <p><span class="d-block"><span class="ion-ios-location h5 mr-3 text-primary"></span>Address:</span> <span> 198 West 21th Street, <br> Suite 721 New York NY 10016</span></p>
-          <p><span class="d-block"><span class="ion-ios-telephone h5 mr-3 text-primary"></span>Phone:</span> <span> (+1) 435 3533</span></p>
-          <p><span class="d-block"><span class="ion-ios-email h5 mr-3 text-primary"></span>Email:</span> <span> info@domain.com</span></p>
-        </div>
-        <div class="col-md-3 mb-5">
-          <p>Sign up for our newsletter</p>
-          <form action="#" class="footer-newsletter">
-            <div class="form-group">
-              <input type="email" class="form-control" placeholder="Email...">
-              <button type="submit" class="btn"><span class="fa fa-paper-plane"></span></button>
-            </div>
-          </form>
-        </div>
-      </div>
-      <div class="row pt-5">
-        <p class="col-md-6 text-right social">
-          <a href="#"><span class="fa fa-tripadvisor"></span></a>
-          <a href="#"><span class="fa fa-facebook"></span></a>
-          <a href="#"><span class="fa fa-twitter"></span></a>
-          <a href="#"><span class="fa fa-linkedin"></span></a>
-          <a href="#"><span class="fa fa-vimeo"></span></a>
-        </p>
-      </div>
-    </div>
-  </footer>
+
 
   <script src="js/jquery-3.3.1.min.js"></script>
   <script src="js/jquery-migrate-3.0.1.min.js"></script>
