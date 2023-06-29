@@ -1,7 +1,6 @@
 <?php
 
 use App\Http\Controllers\ProfileController;
-use App\Http\Controllers\ReservationController;
 use Illuminate\Support\Facades\Route;
 use Illuminate\Http\Request;
 use App\Models\Contact;
@@ -26,24 +25,21 @@ Route::get('/', function () {
 });
 Route::get('/contact', function () {
     return view('contact');
-});
 
-Route::get('/contact', function () {
-    Contact::create([
-        'name' => request('name'),
-        'phone' => request('phone'),
-        'email' => request('email'),
-        'message' => request('message'),
-    ]);
+    $contact = new Contact();
+    $contact->name = request('name');
+    $contact->phone = request('phone');
+    $contact->email = request('email');
+    $contact->message = request('message');
+    $contact->save();
 });
 
 Route::get('/events', function () {
     return view('events');
 });
-
-Route::get("/reservation", [ReservationController::class, 'create']);
-Route::post("/reservation", [ReservationController::class, 'store']);
-
+Route::get('/reservation', function (Request $request) {
+    return view('reservation', ['request' => $request->teeeest]);
+});
 Route::get('/rooms', function () {
     return view('rooms');
 });

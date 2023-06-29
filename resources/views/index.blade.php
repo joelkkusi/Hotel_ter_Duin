@@ -66,12 +66,12 @@
   </header>
   <!-- END head -->
 
-  <section class="site-hero overlay" style="background-image: url(images/hero_4.jpg)" data-stellar-background-ratio="0.5">
+  <section class="site-hero overlay" style="background-image: url(images/Amsterdam.jpg)" data-stellar-background-ratio="0.5">
     <div class="container">
       <div class="row site-hero-inner justify-content-center align-items-center">
         <div class="col-md-10 text-center" data-aos="fade-up">
           <span class="custom-caption text-uppercase text-white d-block  mb-3">Welcome To 5 <span class="fa fa-star text-primary"></span> Hotel</span>
-          <h1 class="heading">A Best Place To Stay</h1>
+          <h1 class="heading">The Best Place To Stay in the Netherlands</h1>
         </div>
       </div>
     </div>
@@ -158,7 +158,7 @@
         <div class="col-md-12 col-lg-4 order-lg-1" data-aos="fade-up">
           <h2 class="heading">Welcome!</h2>
           <p class="mb-4"></p>
-          <p><a href="#" class="btn btn-primary text-white py-2 mr-3">Learn More</a> <span class="mr-3 font-family-serif"><em>or</em></span> <a href="https://vimeo.com/channels/staffpicks/93951774" data-fancybox class="text-uppercase letter-spacing-1">See video</a></p>
+          <p><a href="/about" class="btn btn-primary text-white py-2 mr-3">Learn More</a> <span class="mr-3 font-family-serif"><em>or</em></span> <a href="https://www.youtube.com/watch?v=6kW-RHd2NVQ" data-fancybox class="text-uppercase letter-spacing-1">See video</a></p>
         </div>
 
       </div>

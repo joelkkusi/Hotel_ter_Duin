@@ -67,7 +67,7 @@
   </header>
   <!-- END head -->
 
-  <section class="site-hero inner-page overlay" style="background-image: url(images/hero_4.jpg)" data-stellar-background-ratio="0.5">
+  <section class="site-hero inner-page overlay" style="background-image: url(images/strand_1.jpg)" data-stellar-background-ratio="0.5">
     <div class="container">
       <div class="row site-hero-inner justify-content-center align-items-center">
         <div class="col-md-10 text-center" data-aos="fade">
@@ -277,7 +277,7 @@
     </div>
   </section>
 
-  
+
   <script src="js/jquery-3.3.1.min.js"></script>
   <script src="js/jquery-migrate-3.0.1.min.js"></script>
   <script src="js/popper.min.js"></script>

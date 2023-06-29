@@ -66,7 +66,7 @@
   </header>
   <!-- END head -->
 
-  <section class="site-hero inner-page overlay" style="background-image: url(images/hero_4.jpg)" data-stellar-background-ratio="0.5">
+  <section class="site-hero inner-page overlay" style="background-image: url(images/amsterdam2.jpg)" data-stellar-background-ratio="0.5">
     <div class="container">
       <div class="row site-hero-inner justify-content-center align-items-center">
         <div class="col-md-10 text-center" data-aos="fade">
@@ -233,6 +233,8 @@
       </div>
     </div>
   </section>
+
+
   <!-- END section -->
 
   <div class="section">
@@ -247,22 +249,21 @@
       <div class="row justify-content-center">
         <div class="col-md-8">
           <div class="timeline-item" date-is='2019' data-aos="fade">
-            <h3>More Branches Worldwide</h3>
-            <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.</p>
-            <p>A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.</p>
+            <h3>voorbeeld text3</h3>
+            <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Itaque cumque asperiores, nobis minus fuga, cum non qui magnam neque reiciendis molestias minima? Dolores sed praesentium omnis explicabo nihil debitis quibusdam! </p>
           </div>
 
           <div class="timeline-item" date-is='2011' data-aos="fade">
-            <h3>Company Full Blast</h3>
+            <h3>voorbeeld text 2</h3>
             <p>
-              Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.
+              Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptas mollitia, blanditiis tenetur nesciunt voluptatem eos hic repellat et pariatur consequatur. Quidem modi veritatis magnam eius assumenda dolores corrupti dicta praesentium?
             </p>
           </div>
 
           <div class="timeline-item" date-is='2008' data-aos="fade">
-            <h3>The Birth of the Company</h3>
+            <h3>voorbeeld text</h3>
             <p>
-              Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.
+              Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates tenetur porro facilis aperiam nobis pariatur quo dignissimos sunt quasi nisi eveniet corrupti temporibus quia asperiores repudiandae, distinctio inventore soluta aspernatur!
             </p>
           </div>
         </div>
@@ -272,9 +273,13 @@
     </div>
   </div>
 
+    <div class="map">
+        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2054.3064870467683!2d4.429854875018933!3d52.24346378974209!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c5c079a371c15d%3A0xe388e7a7074e895b!2sKon.%20Wilhelmina%20Boulevard%204%2C%202202%20GR%20Noordwijk!5e0!3m2!1snl!2snl!4v1688021580100!5m2!1snl!2snl" width="100%" height="400" style="border:1;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade" ></iframe>
+    </div>
 
 
-  <section class="section bg-image overlay" style="background-image: url('images/hero_4.jpg');">
+
+  <section class="section bg-image overlay" style="background-image: url('images/amsterdam2.jpg');">
     <div class="container">
       <div class="row align-items-center">
         <div class="col-12 col-md-6 text-center mb-4 mb-md-0 text-md-left" data-aos="fade-up">
