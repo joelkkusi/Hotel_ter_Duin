@@ -233,6 +233,8 @@
       </div>
     </div>
   </section>
+
+
   <!-- END section -->
 
   <div class="section">
@@ -270,6 +272,10 @@
 
     </div>
   </div>
+
+    <div class="map">
+        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2054.3064870467683!2d4.429854875018933!3d52.24346378974209!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c5c079a371c15d%3A0xe388e7a7074e895b!2sKon.%20Wilhelmina%20Boulevard%204%2C%202202%20GR%20Noordwijk!5e0!3m2!1snl!2snl!4v1688021580100!5m2!1snl!2snl" width="100%" height="400" style="border:1;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade" ></iframe>
+    </div>
 
 
 
