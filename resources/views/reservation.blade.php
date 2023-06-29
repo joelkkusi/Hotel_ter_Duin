@@ -320,6 +320,13 @@
 
 
   <script src="js/main.js"></script>
+
+  <style>
+    *::-webkit-scrollbar {
+    display: none;
+    }
+  </style>
+
 </body>
 
 </html>

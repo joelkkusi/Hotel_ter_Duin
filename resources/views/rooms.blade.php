@@ -275,7 +275,7 @@
             </a>
           </div>
 
-          <div class="col-md-6 col-lg-4 mb-5" data-aos="fade-up">
+          <div id="lastDiv" class="ja col-md-6 col-lg-4 mb-5" data-aos="fade-up">
             <a href="#" class="room">
               <figure class="img-wrap">
                 <img src="images/GOD_Room.jpg" alt="no iamge found" class="img-fluid mb-3">
@@ -291,6 +291,7 @@
         </div>
       </div>
   </section>
+
 
 
 
@@ -311,6 +312,13 @@
 
 
   <script src="js/main.js"></script>
+
+  <style>
+    *::-webkit-scrollbar {
+    display: none;
+    }
+  </style>
+
 </body>
 
 </html>

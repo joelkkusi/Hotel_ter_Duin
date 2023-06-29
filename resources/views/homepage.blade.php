@@ -92,7 +92,9 @@
         
         }
 
-
+        *::-webkit-scrollbar {
+        display: none;
+        }
 
 }
 /* nav bar einde */
