@@ -94,7 +94,8 @@
       <div class="row">
         <div class="col-md-7" data-aos="fade-up" data-aos-delay="100">
 
-          <form action="contact" method="post" class="bg-white p-md-5 p-4 mb-5 border">
+          <form action="contact" class="bg-white p-md-5 p-4 mb-5 border">
+            @method('POST')
             @csrf
             <div class="row">
               <div class="col-md-6 form-group">
