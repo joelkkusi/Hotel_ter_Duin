@@ -118,9 +118,16 @@
                             <div class="col-md-6 form-group">
                                 <label class="text-black font-weight-bold" for="room">Room Type</label>
                                 <select id="room" name="room" class="form-control">
-                                    <option value="0">Single Room</option>
-                                    <option value="1">Family Room</option>
-                                    <option value="2">presidental Room</option>
+                                    <option value="0">Single Economic</option>
+                                    <option value="1">Family Economic</option>
+                                    <option value="2">Presidential Economic</option>
+                                    <option value="3">Single Standard</option>
+                                    <option value="4">Family Standard</option>
+                                    <option value="5">Presidental Standard</option>
+                                    <option value="6">Single Comfort</option>
+                                    <option value="7">Family Comfort</option>
+                                    <option value="8">Presidential Comfort</option>
+                                    <option value="9">Royale One</option>
                                 </select>
                             </div>
                             <div class="col-md-6 form-group">
