@@ -256,8 +256,8 @@
               </figure>
               <div class="p-3 text-center room-info">
                 <h2>Family comfort</h2>
-                <span class="text-uppercase letter-spacing-1">140€ / per night</span>
                 <p>A Comfort Family room is the ultimate in luxurious and spacious accommodation, tailored specifically for families, offering top-notch comfort, convenience, and indulgence. This room type includes complimentary food and beverages, ensuring a memorable and enjoyable stay for the whole family.</p>
+                <span class="text-uppercase letter-spacing-1">140€ / per night</span>
               </div>
             </a>
           </div>
@@ -281,9 +281,9 @@
                 <img src="images/GOD_Room.jpg" alt="no iamge found" class="img-fluid mb-3">
               </figure>
               <div class="p-3 text-center room-info">
-                <h2>Royale One</h2>
+                <h2>The God Room</h2>
                 <span class="text-uppercase letter-spacing-1">500€ / per night</span>
-                <p>Royale One room is the epitome of extravagance and luxury, meticulously designed for royalty, offering an unparalleled experience that surpasses all expectations. This room provides an array of lavish amenities, including exquisite furnishings, personalized services, and an extensive range of premium offerings, ensuring an unforgettable stay that caters to the utmost desires and needs of our esteemed guests.</p>
+                <p>Our God room is the epitome of extravagance and luxury, meticulously designed for royalty, offering an unparalleled experience that surpasses all expectations. This room provides an array of lavish amenities, including exquisite furnishings, personalized services, and an extensive range of premium offerings, ensuring an unforgettable stay that caters to the utmost desires and needs of our esteemed guests.</p>
               </div>
             </a>
           </div>
