@@ -25,6 +25,10 @@ Route::get('/form', function () {
     return view('form', ['user']);
 });
 
+Route::group(['middleware' => ['auth']], function () {
+    Route::get('/logout', 'LogoutController@perform')->name('logout.perform');
+});
+
 Route::get('/', function () {
     return view('index');
 });
@@ -64,6 +68,3 @@ Route::middleware('auth')->group(function () {
 });
 
 require __DIR__ . '/auth.php';
-
-
-
