@@ -24,9 +24,13 @@
 
   <!-- Theme Style -->
   <link rel="stylesheet" href="/css/style.css">
+  <script defer src="teest.js"></script>
+
 </head>
 
 <body>
+
+
 
   <header class="site-header js-site-header">
     <div class="container-fluid">
@@ -527,7 +531,11 @@
     }
   </style>
 
-
+@if (session()->has('success'))
+<div onload="test()" onclick="test()" style="position: fixed; z-index: 5; bottom: 20px; left: 40%; align-items: center; width:300px; height: 50px; background: blue; color: white; border-radius: 500px;font-family: sans-serif;" id="popup">
+    <p style="text-align: center;">You are not logged in</p>
+</div>
+@endif
 </body>
 
 </html>

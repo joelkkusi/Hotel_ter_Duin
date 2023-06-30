@@ -22,7 +22,7 @@ class ReservationController extends Controller
     public function create()
     {
         if (!Auth::check()) {
-            return redirect('/');
+            return redirect('/')->with('succees', 'Je moet inloggen');
         }
         return view('reservation');
     }
