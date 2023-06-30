@@ -256,8 +256,8 @@
               </figure>
               <div class="p-3 text-center room-info">
                 <h2>Family comfort</h2>
-                <span class="text-uppercase letter-spacing-1">140€ / per night</span>
                 <p>A Comfort Family room is the ultimate in luxurious and spacious accommodation, tailored specifically for families, offering top-notch comfort, convenience, and indulgence. This room type includes complimentary food and beverages, ensuring a memorable and enjoyable stay for the whole family.</p>
+                <span class="text-uppercase letter-spacing-1">140€ / per night</span>
               </div>
             </a>
           </div>
