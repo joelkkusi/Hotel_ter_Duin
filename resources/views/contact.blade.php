@@ -10,6 +10,7 @@
   <meta name="keywords" content="" />
   <meta name="author" content="" />
   <link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=|Roboto+Sans:400,700|Playfair+Display:400,700">
+  <link rel="stylesheet" type="text/css" href="{{ asset('css/style.css') }}">
 
   <link rel="stylesheet" href="css/bootstrap.min.css">
   <link rel="stylesheet" href="css/animate.css">
@@ -103,10 +104,20 @@
               <div class="col-md-6 form-group">
                 <label for="name">Name</label>
                 <input type="text" name="name" class="form-control ">
+                @if ($errors->has('name'))
+                <div class="error">
+                  {{ $errors->first('name') }}
+                </div>
+                @endif
               </div>
               <div class="col-md-6 form-group">
                 <label for="phone">Phone</label>
                 <input type="text" name="phone" class="form-control ">
+                @if ($errors->has('phone'))
+                <div class="error">
+                  {{ $errors->first('phone') }}
+                </div>
+                @endif
               </div>
             </div>
 
@@ -114,16 +125,31 @@
               <div class="col-md-12 form-group">
                 <label for="email">Email</label>
                 <input type="email" name="email" class="form-control ">
+                @if ($errors->has('email'))
+                <div class="error">
+                  {{ $errors->first('email') }}
+                </div>
+                @endif
               </div>
               <div class="col-md-12 form-group">
                 <label for="email">Subject</label>
                 <input type="text" name="subject" class="form-control ">
+                @if ($errors->has('subject'))
+                <div class="error">
+                  {{ $errors->first('subject') }}
+                </div>
+                @endif
               </div>
             </div>
             <div class="row mb-4">
               <div class="col-md-12 form-group">
                 <label for="message">Write Message</label>
                 <textarea name="message" id="message" class="form-control " cols="30" rows="8"></textarea>
+                @if ($errors->has('message'))
+                <div class="error">
+                  {{ $errors->first('message') }}
+                </div>
+                @endif
               </div>
             </div>
             <div class="row">
@@ -264,6 +290,13 @@
 
 
   <script src="js/main.js"></script>
+
+  <style>
+    *::-webkit-scrollbar {
+      display: none;
+    }
+  </style>
+
 </body>
 
 </html>

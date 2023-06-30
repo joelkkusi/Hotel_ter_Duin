@@ -256,8 +256,8 @@
               </figure>
               <div class="p-3 text-center room-info">
                 <h2>Family comfort</h2>
-                <p>A Comfort Family room is the ultimate in luxurious and spacious accommodation, tailored specifically for families, offering top-notch comfort, convenience, and indulgence. This room type includes complimentary food and beverages, ensuring a memorable and enjoyable stay for the whole family.</p>
                 <span class="text-uppercase letter-spacing-1">140€ / per night</span>
+                <p>A Comfort Family room is the ultimate in luxurious and spacious accommodation, tailored specifically for families, offering top-notch comfort, convenience, and indulgence. This room type includes complimentary food and beverages, ensuring a memorable and enjoyable stay for the whole family.</p>
               </div>
             </a>
           </div>
@@ -275,15 +275,15 @@
             </a>
           </div>
 
-          <div class="col-md-6 col-lg-4 mb-5" data-aos="fade-up">
+          <div id="lastDiv" class="ja col-md-6 col-lg-4 mb-5" data-aos="fade-up">
             <a href="#" class="room">
               <figure class="img-wrap">
                 <img src="images/GOD_Room.jpg" alt="no iamge found" class="img-fluid mb-3">
               </figure>
               <div class="p-3 text-center room-info">
-                <h2>The God Room</h2>
+                <h2>Royale One</h2>
                 <span class="text-uppercase letter-spacing-1">500€ / per night</span>
-                <p>Our God room is the epitome of extravagance and luxury, meticulously designed for royalty, offering an unparalleled experience that surpasses all expectations. This room provides an array of lavish amenities, including exquisite furnishings, personalized services, and an extensive range of premium offerings, ensuring an unforgettable stay that caters to the utmost desires and needs of our esteemed guests.</p>
+                <p>Royale One room is the epitome of extravagance and luxury, meticulously designed for royalty, offering an unparalleled experience that surpasses all expectations. This room provides an array of lavish amenities, including exquisite furnishings, personalized services, and an extensive range of premium offerings, ensuring an unforgettable stay that caters to the utmost desires and needs of our esteemed guests.</p>
               </div>
             </a>
           </div>
@@ -291,6 +291,7 @@
         </div>
       </div>
   </section>
+
 
 
 
@@ -311,6 +312,13 @@
 
 
   <script src="js/main.js"></script>
+
+  <style>
+    *::-webkit-scrollbar {
+    display: none;
+    }
+  </style>
+
 </body>
 
 </html>
